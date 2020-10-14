@@ -1,0 +1,127 @@
+[
+  [
+    {
+      "w": 1.5
+    },
+    "Tab",
+    {
+      "a": 7
+    },
+    "",
+    "",
+    "",
+    "",
+    "",
+    {
+      "a": 4
+    },
+    "Home",
+    "End",
+    "Page\n\n\n\n\n\nUp",
+    "Page\n\n\n\n\n\nDown",
+    {
+      "a": 7
+    },
+    "",
+    "",
+    {
+      "a": 4,
+      "w": 1.5
+    },
+    "Print\n\n\n\n\n\nScreen"
+  ],
+  [
+    {
+      "w": 1.75
+    },
+    "Ctrl",
+    {
+      "a": 7
+    },
+    "",
+    {
+      "a": 4
+    },
+    "Mouse\n\n\n\n\n\nLeft",
+    "Mouse\n\n\n\n\n\nDown",
+    "Mouse\n\n\n\n\n\nUp",
+    "Mouse\n\n\n\n\n\nRight",
+    "Cur\n\n\n\n\n\nLeft",
+    "Cur\n\n\n\n\n\nDown",
+    "Cur\n\n\n\n\n\nUp",
+    "Cur\n\n\n\n\n\nRight",
+    {
+      "a": 7
+    },
+    "",
+    {
+      "a": 4,
+      "w": 2.25
+    },
+    "Mouse\n\n\n\n\n\nbtn1"
+  ],
+  [
+    {
+      "w": 2.25
+    },
+    "Shift",
+    {
+      "a": 7
+    },
+    "",
+    {
+      "a": 4
+    },
+    "Wheel\n\n\n\n\n\nLeft",
+    "Wheel\n\n\n\n\n\nDown",
+    "Wheel\n\n\n\n\n\nUp",
+    "Wheel\n\n\n\n\n\nRight",
+    {
+      "a": 7
+    },
+    "",
+    "",
+    "",
+    "",
+    {
+      "a": 4,
+      "w": 1.25
+    },
+    "Mouse\n\n\n\n\n\nbtn4",
+    {
+      "w": 1.25
+    },
+    "Mouse\n\n\n\n\n\nbtn5"
+  ],
+  [
+    {
+      "x": 1.5,
+      "w": 1.25
+    },
+    "Alt",
+    {
+      "w": 1.25
+    },
+    "Win",
+    {
+      "w": 2.25
+    },
+    "Fn1",
+    {
+      "w": 2.75
+    },
+    "Mouse\n\n\n\n\n\nbtn2",
+    {
+      "w": 1.25
+    },
+    "Mouse\n\n\n\n\n\nbtn3",
+    {
+      "w": 1.25
+    },
+    "Fn2",
+    {
+      "w": 1.25
+    },
+    "Esc"
+  ]
+]
