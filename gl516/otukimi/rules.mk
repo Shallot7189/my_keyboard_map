@@ -24,3 +24,6 @@ AUDIO_ENABLE = no           # Audio output
 CUSTOM_MATRIX = yes
 
 SRC += matrix.c
+SRC += spi_master.c
+SRC += pmw/pmw.c
+
